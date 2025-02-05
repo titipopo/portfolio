@@ -90335,7 +90335,7 @@ A.mB.prototype={
 w2(a){switch(a.a){case 0:return B.GS
 case 1:return B.adq
 default:return B.mG}},
-abN(){var s=A.Eb("__theme__key__",null),r=A.Eb("__locale__key__","en")
+abN(){var s=A.Eb("__theme__key__",null),r=A.Eb("__locale__key__","ja")
 this.zq(new A.fM(new A.l_(new A.fG(r,null),this.w2(B.b.zF(B.la,new A.apM(s),new A.apN())),r==="en")))},
 Gi(a){this.zq(new A.fM(new A.l_(new A.fG(a,null),this.w2(B.b.zF(B.la,new A.apO(A.Eb("__theme__key__",null)),new A.apP())),a==="en")))
 A.Vh("__locale__key__",a)},
