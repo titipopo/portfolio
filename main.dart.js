@@ -90431,7 +90431,7 @@ wO(a,b,c){var s=null,r=t.p
 return A.c_(A.a([A.eR(A.a([A.bc(b,s,s,s,A.bu(s,s,s,s,s,s,s,s,s,s,s,A.P(a).p2.r.r,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bc(c,s,s,s,A.bu(s,s,s,s,s,s,s,s,s,s,s,A.P(a).p2.w.r,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.S,B.z,B.y),B.cV],r),B.R,B.z,B.y)}}
 A.a8d.prototype={
 $2(a,b){var s=null,r=this.b[b],q=t.p
-return new A.d3(new A.aS(20,0,20,0),A.c_(A.a([A.eR(A.a([A.dy(s,B.A,s,s,new A.dg(B.n,s,s,s,s,s,B.eM),8,s,s,8),A.bH(s,s,10),A.e1(A.eR(A.a([A.bc(r.split(":")[0]+": ",s,s,s,A.bu(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bc(r.split(":")[1],s,s,s,s,s,s)],q),B.S,B.z,B.y),1)],q),B.S,B.z,B.y)],q),B.R,B.z,B.y),s)},
+return new A.d3(new A.aS(20,0,20,0),A.c_(A.a([A.eR(A.a([A.dy(s,B.A,s,s,new A.dg(A.P(a).fr,s,s,s,s,s,B.eM),8,s,s,8),A.bH(s,s,10),A.e1(A.eR(A.a([A.bc(r.split(":")[0]+": ",s,s,s,A.bu(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bc(r.split(":")[1],s,s,s,s,s,s)],q),B.S,B.z,B.y),1)],q),B.S,B.z,B.y)],q),B.R,B.z,B.y),s)},
 $S:535}
 A.a8e.prototype={
 $0(){A.aHh("https://raw.githubusercontent.com/titipopo/portfolio/main/files/CV/"+this.a+"/\u5c65\u6b74\u66f8_\u30ec\u30bf\u30f3\u30d3\u30f3_2025.pdf","\u5c65\u6b74\u66f8_\u30ec\u30bf\u30f3\u30d3\u30f3_2025.pdf")},
